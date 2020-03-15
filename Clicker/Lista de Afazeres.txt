@@ -1,0 +1,42 @@
+## Itens marcados com " * " (asterisco) serão revisados com os componentes do grupo, para tomar a decisão se essees itens serão colocados de fato, no jogo ##
+## Versão do Unity: 2019.3.4f1 ## 
+
+To Do List:
+-Menu:
+	Novo Jogo*
+	Continuar*
+	Opções*
+	Sair
+
+-Opções
+	Qualidade*
+	Musica*
+	SFX*
+	
+-Jogo
+	Pontuação Maxima e pontos p/s (quantidade de lixo)
+		
+	-Guaxinim
+		Animação do Guaxinim
+		Colição com clique no Guaxinim
+		
+	-Menu com upgrades
+		Tamanho do Lixo
+		Quantidade de Carregamento de Lixo
+		Velocidade de tempo de Coleta
+		
+		Mais Guaxinins (Guaxinins menores)
+		Roupa (aumento de status)
+	
+	-Limitadores
+		Humanos ou Outros Animais vendo o Lixo (parar coleta e "esconder" o Guaxinim)
+		Lixo Limitado (sem lixo, fica escuro, quando há Lixo para ser coletado, ele fica mais claro)
+	
+	-Pausa	
+		/Menu de Opções/
+		
+	-Fim de jogo*
+	
+		
+
+

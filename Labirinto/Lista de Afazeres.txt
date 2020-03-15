@@ -1,0 +1,29 @@
+## Itens marcados com " * " (asterisco) serão revisados com os componentes do grupo, para tomar a decisão se essees itens serão colocados de fato, no jogo ##
+## Versão do Unity: 2019.3.4f1 ## 
+
+To Do List:
+-Menu:
+	Jogar
+	Continuar*
+	Opções*
+	Sair
+
+-Opções
+	Qualidade*
+	Musica*
+	SFX*
+	
+-Jogo
+	-Bola
+		Movimentação as 8 direções, giroscopio
+		Colissão entre a bola e o labirinto
+	-Labirinto
+		Colissões entre a bola e o labirinto
+		Buracos
+	-Pausa	
+		/Menu de Opções/
+	-Fim de jogo
+	
+		
+
+
