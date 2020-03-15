@@ -1,6 +1,6 @@
 # NewGame
 Jogos simples criados para Android
-### Autores:
+# Autores:
 ## Programação:
 Lucca Amorim
 Jonas Gonçalves
