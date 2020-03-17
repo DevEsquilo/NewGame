@@ -6,7 +6,6 @@ To Do List:
 	Jogar
 	Continuar*
 	Opções*
-	Sair
 
 -Opções
 	Qualidade*
